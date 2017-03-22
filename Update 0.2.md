@@ -1,4 +1,4 @@
-Aparentemente o texto ficava muito escuro quando uma <li> estava com hover, para min não era muita coisa mas como foi sugerido pelo usuario x resolvi mudar um pouco as cores do hover e do texto em geral, o fundo continua escuro mas quase todo o resto esta mais claro, e assim melhor para ver o texto.
+Aparentemente o texto ficava muito escuro quando uma "li" estava com hover, para min não era muita coisa mas como foi sugerido pelo usuario x resolvi mudar um pouco as cores do hover e do texto em geral, o fundo continua escuro mas quase todo o resto esta mais claro, e assim melhor para ver o texto.
 
 mais algumas criptografias foram adicionadas.
 
