@@ -1,10 +1,5 @@
 # CryptoHelper
 
-Aprendendo a brincar melhor com extensões do chrome.
-
-Essa extensão já tem algumas criptografias que estão funcionando, quem sabe adiciono mais algumas...
-No geral isso foi so para aprender mesmo, e deixar o processo de criptografar e descriptografar algumas coisas mais rapido.
-
 Screenshots:
 
 ![01](https://cloud.githubusercontent.com/assets/18449661/24179020/5ffefaa6-0e8b-11e7-9340-d7fbbeccad21.png)
